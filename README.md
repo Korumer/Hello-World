@@ -1,4 +1,4 @@
 # Hello-World
-ta no yyyy krótki opis
-Jestem nudnym gościem którego nic nie interesuje.
-ogólnie gdyby nie bartek to pewnie zbyt szybko bym tego nie znalazł hehe.
+ta no krótki opis
+interesuje się grami komputerowymi oraz ich tworzeniem
+mój cel to stworzenie kiedyś kry komputerowej
